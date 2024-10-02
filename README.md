@@ -8,7 +8,8 @@ Usage -
    python train.py
    ```
 
-2. Test
+2. Test - Use the following [link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/souvik_ghosh_students_iiit_ac_in/ESr0VzFJ9-9Hta4U27FcFl4Bj0nLfeoWyAhOHCsosCIVFQ?e=6KG4s3) to download the trans1 model weight. All other model weights are available too in the corresponding folder.
+3. 
    ```
    python translate.py
    ```
